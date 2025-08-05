@@ -1,12 +1,4 @@
-<h2 align="left"> Hi there 👋 I'm Alexandra Hoffmann, Data Science specialist  </h1>
-
-👾 I'm making the leap from the Support team on a daily basis at Yandex, to explore the data-driven world of a Data Scientist
-
-👾 Ever since I was a little girl, I knew I wanted to be on the computer a lot
-
-👾 I'm addicted to studying and made it my daily routine
-
-👾 My personal goal is to dive deep into the Machine Learning
+<h2 align="left"> Hi there 👋 I'm Alexandra Hoffmann  </h1>
 
 <h3 align="left"> Connect with me: </h1>
 <p align="left">
